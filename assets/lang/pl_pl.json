@@ -4,6 +4,7 @@
   {
     "name": "Polski"
   },
+  "formatPercent": "#%",
   "startButton": "Rozpocznij",
   "loadButton": "Otwórz katalog zapisu",
   "optionsButton": "Ustawienia",
